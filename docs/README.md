@@ -2,4 +2,6 @@
 
 This library is generated with [`k8s`](https://github.com/jsonnet-libs/k8s).
 
-[Docs](https://jsonnet-libs.github.io/emissary-libsonnet)
+- [3.7](3.7/README.md)
+- [3.8](3.8/README.md)
+- [3.9](3.9/README.md)
