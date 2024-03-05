@@ -2,667 +2,667 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
     <url>
          <loc>https://jsonnet-libs.github.io/emissary-libsonnet/</loc>
-         <lastmod>2024-03-04</lastmod>
+         <lastmod>2024-03-05</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>https://jsonnet-libs.github.io/emissary-libsonnet/3.7/</loc>
-         <lastmod>2024-03-04</lastmod>
+         <lastmod>2024-03-05</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>https://jsonnet-libs.github.io/emissary-libsonnet/3.7/getambassador/</loc>
-         <lastmod>2024-03-04</lastmod>
+         <lastmod>2024-03-05</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>https://jsonnet-libs.github.io/emissary-libsonnet/3.7/getambassador/v1/</loc>
-         <lastmod>2024-03-04</lastmod>
+         <lastmod>2024-03-05</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>https://jsonnet-libs.github.io/emissary-libsonnet/3.7/getambassador/v1/authService/</loc>
-         <lastmod>2024-03-04</lastmod>
+         <lastmod>2024-03-05</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>https://jsonnet-libs.github.io/emissary-libsonnet/3.7/getambassador/v1/consulResolver/</loc>
-         <lastmod>2024-03-04</lastmod>
+         <lastmod>2024-03-05</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>https://jsonnet-libs.github.io/emissary-libsonnet/3.7/getambassador/v1/devPortal/</loc>
-         <lastmod>2024-03-04</lastmod>
+         <lastmod>2024-03-05</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>https://jsonnet-libs.github.io/emissary-libsonnet/3.7/getambassador/v1/kubernetesEndpointResolver/</loc>
-         <lastmod>2024-03-04</lastmod>
+         <lastmod>2024-03-05</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>https://jsonnet-libs.github.io/emissary-libsonnet/3.7/getambassador/v1/kubernetesServiceResolver/</loc>
-         <lastmod>2024-03-04</lastmod>
+         <lastmod>2024-03-05</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>https://jsonnet-libs.github.io/emissary-libsonnet/3.7/getambassador/v1/logService/</loc>
-         <lastmod>2024-03-04</lastmod>
+         <lastmod>2024-03-05</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>https://jsonnet-libs.github.io/emissary-libsonnet/3.7/getambassador/v1/mapping/</loc>
-         <lastmod>2024-03-04</lastmod>
+         <lastmod>2024-03-05</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>https://jsonnet-libs.github.io/emissary-libsonnet/3.7/getambassador/v1/module/</loc>
-         <lastmod>2024-03-04</lastmod>
+         <lastmod>2024-03-05</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>https://jsonnet-libs.github.io/emissary-libsonnet/3.7/getambassador/v1/rateLimitService/</loc>
-         <lastmod>2024-03-04</lastmod>
+         <lastmod>2024-03-05</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>https://jsonnet-libs.github.io/emissary-libsonnet/3.7/getambassador/v1/tcpMapping/</loc>
-         <lastmod>2024-03-04</lastmod>
+         <lastmod>2024-03-05</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>https://jsonnet-libs.github.io/emissary-libsonnet/3.7/getambassador/v1/tlsContext/</loc>
-         <lastmod>2024-03-04</lastmod>
+         <lastmod>2024-03-05</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>https://jsonnet-libs.github.io/emissary-libsonnet/3.7/getambassador/v1/tracingService/</loc>
-         <lastmod>2024-03-04</lastmod>
+         <lastmod>2024-03-05</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>https://jsonnet-libs.github.io/emissary-libsonnet/3.7/getambassador/v2/</loc>
-         <lastmod>2024-03-04</lastmod>
+         <lastmod>2024-03-05</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>https://jsonnet-libs.github.io/emissary-libsonnet/3.7/getambassador/v2/authService/</loc>
-         <lastmod>2024-03-04</lastmod>
+         <lastmod>2024-03-05</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>https://jsonnet-libs.github.io/emissary-libsonnet/3.7/getambassador/v2/consulResolver/</loc>
-         <lastmod>2024-03-04</lastmod>
+         <lastmod>2024-03-05</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>https://jsonnet-libs.github.io/emissary-libsonnet/3.7/getambassador/v2/devPortal/</loc>
-         <lastmod>2024-03-04</lastmod>
+         <lastmod>2024-03-05</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>https://jsonnet-libs.github.io/emissary-libsonnet/3.7/getambassador/v2/host/</loc>
-         <lastmod>2024-03-04</lastmod>
+         <lastmod>2024-03-05</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>https://jsonnet-libs.github.io/emissary-libsonnet/3.7/getambassador/v2/kubernetesEndpointResolver/</loc>
-         <lastmod>2024-03-04</lastmod>
+         <lastmod>2024-03-05</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>https://jsonnet-libs.github.io/emissary-libsonnet/3.7/getambassador/v2/kubernetesServiceResolver/</loc>
-         <lastmod>2024-03-04</lastmod>
+         <lastmod>2024-03-05</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>https://jsonnet-libs.github.io/emissary-libsonnet/3.7/getambassador/v2/logService/</loc>
-         <lastmod>2024-03-04</lastmod>
+         <lastmod>2024-03-05</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>https://jsonnet-libs.github.io/emissary-libsonnet/3.7/getambassador/v2/mapping/</loc>
-         <lastmod>2024-03-04</lastmod>
+         <lastmod>2024-03-05</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>https://jsonnet-libs.github.io/emissary-libsonnet/3.7/getambassador/v2/module/</loc>
-         <lastmod>2024-03-04</lastmod>
+         <lastmod>2024-03-05</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>https://jsonnet-libs.github.io/emissary-libsonnet/3.7/getambassador/v2/rateLimitService/</loc>
-         <lastmod>2024-03-04</lastmod>
+         <lastmod>2024-03-05</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>https://jsonnet-libs.github.io/emissary-libsonnet/3.7/getambassador/v2/tcpMapping/</loc>
-         <lastmod>2024-03-04</lastmod>
+         <lastmod>2024-03-05</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>https://jsonnet-libs.github.io/emissary-libsonnet/3.7/getambassador/v2/tlsContext/</loc>
-         <lastmod>2024-03-04</lastmod>
+         <lastmod>2024-03-05</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>https://jsonnet-libs.github.io/emissary-libsonnet/3.7/getambassador/v2/tracingService/</loc>
-         <lastmod>2024-03-04</lastmod>
+         <lastmod>2024-03-05</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>https://jsonnet-libs.github.io/emissary-libsonnet/3.7/getambassador/v3alpha1/</loc>
-         <lastmod>2024-03-04</lastmod>
+         <lastmod>2024-03-05</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>https://jsonnet-libs.github.io/emissary-libsonnet/3.7/getambassador/v3alpha1/authService/</loc>
-         <lastmod>2024-03-04</lastmod>
+         <lastmod>2024-03-05</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>https://jsonnet-libs.github.io/emissary-libsonnet/3.7/getambassador/v3alpha1/consulResolver/</loc>
-         <lastmod>2024-03-04</lastmod>
+         <lastmod>2024-03-05</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>https://jsonnet-libs.github.io/emissary-libsonnet/3.7/getambassador/v3alpha1/devPortal/</loc>
-         <lastmod>2024-03-04</lastmod>
+         <lastmod>2024-03-05</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>https://jsonnet-libs.github.io/emissary-libsonnet/3.7/getambassador/v3alpha1/host/</loc>
-         <lastmod>2024-03-04</lastmod>
+         <lastmod>2024-03-05</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>https://jsonnet-libs.github.io/emissary-libsonnet/3.7/getambassador/v3alpha1/kubernetesEndpointResolver/</loc>
-         <lastmod>2024-03-04</lastmod>
+         <lastmod>2024-03-05</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>https://jsonnet-libs.github.io/emissary-libsonnet/3.7/getambassador/v3alpha1/kubernetesServiceResolver/</loc>
-         <lastmod>2024-03-04</lastmod>
+         <lastmod>2024-03-05</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>https://jsonnet-libs.github.io/emissary-libsonnet/3.7/getambassador/v3alpha1/listener/</loc>
-         <lastmod>2024-03-04</lastmod>
+         <lastmod>2024-03-05</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>https://jsonnet-libs.github.io/emissary-libsonnet/3.7/getambassador/v3alpha1/logService/</loc>
-         <lastmod>2024-03-04</lastmod>
+         <lastmod>2024-03-05</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>https://jsonnet-libs.github.io/emissary-libsonnet/3.7/getambassador/v3alpha1/mapping/</loc>
-         <lastmod>2024-03-04</lastmod>
+         <lastmod>2024-03-05</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>https://jsonnet-libs.github.io/emissary-libsonnet/3.7/getambassador/v3alpha1/module/</loc>
-         <lastmod>2024-03-04</lastmod>
+         <lastmod>2024-03-05</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>https://jsonnet-libs.github.io/emissary-libsonnet/3.7/getambassador/v3alpha1/rateLimitService/</loc>
-         <lastmod>2024-03-04</lastmod>
+         <lastmod>2024-03-05</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>https://jsonnet-libs.github.io/emissary-libsonnet/3.7/getambassador/v3alpha1/tcpMapping/</loc>
-         <lastmod>2024-03-04</lastmod>
+         <lastmod>2024-03-05</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>https://jsonnet-libs.github.io/emissary-libsonnet/3.7/getambassador/v3alpha1/tlsContext/</loc>
-         <lastmod>2024-03-04</lastmod>
+         <lastmod>2024-03-05</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>https://jsonnet-libs.github.io/emissary-libsonnet/3.7/getambassador/v3alpha1/tracingService/</loc>
-         <lastmod>2024-03-04</lastmod>
+         <lastmod>2024-03-05</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>https://jsonnet-libs.github.io/emissary-libsonnet/3.8/</loc>
-         <lastmod>2024-03-04</lastmod>
+         <lastmod>2024-03-05</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>https://jsonnet-libs.github.io/emissary-libsonnet/3.8/getambassador/</loc>
-         <lastmod>2024-03-04</lastmod>
+         <lastmod>2024-03-05</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>https://jsonnet-libs.github.io/emissary-libsonnet/3.8/getambassador/v1/</loc>
-         <lastmod>2024-03-04</lastmod>
+         <lastmod>2024-03-05</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>https://jsonnet-libs.github.io/emissary-libsonnet/3.8/getambassador/v1/authService/</loc>
-         <lastmod>2024-03-04</lastmod>
+         <lastmod>2024-03-05</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>https://jsonnet-libs.github.io/emissary-libsonnet/3.8/getambassador/v1/consulResolver/</loc>
-         <lastmod>2024-03-04</lastmod>
+         <lastmod>2024-03-05</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>https://jsonnet-libs.github.io/emissary-libsonnet/3.8/getambassador/v1/devPortal/</loc>
-         <lastmod>2024-03-04</lastmod>
+         <lastmod>2024-03-05</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>https://jsonnet-libs.github.io/emissary-libsonnet/3.8/getambassador/v1/kubernetesEndpointResolver/</loc>
-         <lastmod>2024-03-04</lastmod>
+         <lastmod>2024-03-05</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>https://jsonnet-libs.github.io/emissary-libsonnet/3.8/getambassador/v1/kubernetesServiceResolver/</loc>
-         <lastmod>2024-03-04</lastmod>
+         <lastmod>2024-03-05</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>https://jsonnet-libs.github.io/emissary-libsonnet/3.8/getambassador/v1/logService/</loc>
-         <lastmod>2024-03-04</lastmod>
+         <lastmod>2024-03-05</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>https://jsonnet-libs.github.io/emissary-libsonnet/3.8/getambassador/v1/mapping/</loc>
-         <lastmod>2024-03-04</lastmod>
+         <lastmod>2024-03-05</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>https://jsonnet-libs.github.io/emissary-libsonnet/3.8/getambassador/v1/module/</loc>
-         <lastmod>2024-03-04</lastmod>
+         <lastmod>2024-03-05</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>https://jsonnet-libs.github.io/emissary-libsonnet/3.8/getambassador/v1/rateLimitService/</loc>
-         <lastmod>2024-03-04</lastmod>
+         <lastmod>2024-03-05</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>https://jsonnet-libs.github.io/emissary-libsonnet/3.8/getambassador/v1/tcpMapping/</loc>
-         <lastmod>2024-03-04</lastmod>
+         <lastmod>2024-03-05</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>https://jsonnet-libs.github.io/emissary-libsonnet/3.8/getambassador/v1/tlsContext/</loc>
-         <lastmod>2024-03-04</lastmod>
+         <lastmod>2024-03-05</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>https://jsonnet-libs.github.io/emissary-libsonnet/3.8/getambassador/v1/tracingService/</loc>
-         <lastmod>2024-03-04</lastmod>
+         <lastmod>2024-03-05</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>https://jsonnet-libs.github.io/emissary-libsonnet/3.8/getambassador/v2/</loc>
-         <lastmod>2024-03-04</lastmod>
+         <lastmod>2024-03-05</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>https://jsonnet-libs.github.io/emissary-libsonnet/3.8/getambassador/v2/authService/</loc>
-         <lastmod>2024-03-04</lastmod>
+         <lastmod>2024-03-05</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>https://jsonnet-libs.github.io/emissary-libsonnet/3.8/getambassador/v2/consulResolver/</loc>
-         <lastmod>2024-03-04</lastmod>
+         <lastmod>2024-03-05</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>https://jsonnet-libs.github.io/emissary-libsonnet/3.8/getambassador/v2/devPortal/</loc>
-         <lastmod>2024-03-04</lastmod>
+         <lastmod>2024-03-05</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>https://jsonnet-libs.github.io/emissary-libsonnet/3.8/getambassador/v2/host/</loc>
-         <lastmod>2024-03-04</lastmod>
+         <lastmod>2024-03-05</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>https://jsonnet-libs.github.io/emissary-libsonnet/3.8/getambassador/v2/kubernetesEndpointResolver/</loc>
-         <lastmod>2024-03-04</lastmod>
+         <lastmod>2024-03-05</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>https://jsonnet-libs.github.io/emissary-libsonnet/3.8/getambassador/v2/kubernetesServiceResolver/</loc>
-         <lastmod>2024-03-04</lastmod>
+         <lastmod>2024-03-05</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>https://jsonnet-libs.github.io/emissary-libsonnet/3.8/getambassador/v2/logService/</loc>
-         <lastmod>2024-03-04</lastmod>
+         <lastmod>2024-03-05</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>https://jsonnet-libs.github.io/emissary-libsonnet/3.8/getambassador/v2/mapping/</loc>
-         <lastmod>2024-03-04</lastmod>
+         <lastmod>2024-03-05</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>https://jsonnet-libs.github.io/emissary-libsonnet/3.8/getambassador/v2/module/</loc>
-         <lastmod>2024-03-04</lastmod>
+         <lastmod>2024-03-05</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>https://jsonnet-libs.github.io/emissary-libsonnet/3.8/getambassador/v2/rateLimitService/</loc>
-         <lastmod>2024-03-04</lastmod>
+         <lastmod>2024-03-05</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>https://jsonnet-libs.github.io/emissary-libsonnet/3.8/getambassador/v2/tcpMapping/</loc>
-         <lastmod>2024-03-04</lastmod>
+         <lastmod>2024-03-05</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>https://jsonnet-libs.github.io/emissary-libsonnet/3.8/getambassador/v2/tlsContext/</loc>
-         <lastmod>2024-03-04</lastmod>
+         <lastmod>2024-03-05</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>https://jsonnet-libs.github.io/emissary-libsonnet/3.8/getambassador/v2/tracingService/</loc>
-         <lastmod>2024-03-04</lastmod>
+         <lastmod>2024-03-05</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>https://jsonnet-libs.github.io/emissary-libsonnet/3.8/getambassador/v3alpha1/</loc>
-         <lastmod>2024-03-04</lastmod>
+         <lastmod>2024-03-05</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>https://jsonnet-libs.github.io/emissary-libsonnet/3.8/getambassador/v3alpha1/authService/</loc>
-         <lastmod>2024-03-04</lastmod>
+         <lastmod>2024-03-05</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>https://jsonnet-libs.github.io/emissary-libsonnet/3.8/getambassador/v3alpha1/consulResolver/</loc>
-         <lastmod>2024-03-04</lastmod>
+         <lastmod>2024-03-05</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>https://jsonnet-libs.github.io/emissary-libsonnet/3.8/getambassador/v3alpha1/devPortal/</loc>
-         <lastmod>2024-03-04</lastmod>
+         <lastmod>2024-03-05</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>https://jsonnet-libs.github.io/emissary-libsonnet/3.8/getambassador/v3alpha1/host/</loc>
-         <lastmod>2024-03-04</lastmod>
+         <lastmod>2024-03-05</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>https://jsonnet-libs.github.io/emissary-libsonnet/3.8/getambassador/v3alpha1/kubernetesEndpointResolver/</loc>
-         <lastmod>2024-03-04</lastmod>
+         <lastmod>2024-03-05</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>https://jsonnet-libs.github.io/emissary-libsonnet/3.8/getambassador/v3alpha1/kubernetesServiceResolver/</loc>
-         <lastmod>2024-03-04</lastmod>
+         <lastmod>2024-03-05</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>https://jsonnet-libs.github.io/emissary-libsonnet/3.8/getambassador/v3alpha1/listener/</loc>
-         <lastmod>2024-03-04</lastmod>
+         <lastmod>2024-03-05</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>https://jsonnet-libs.github.io/emissary-libsonnet/3.8/getambassador/v3alpha1/logService/</loc>
-         <lastmod>2024-03-04</lastmod>
+         <lastmod>2024-03-05</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>https://jsonnet-libs.github.io/emissary-libsonnet/3.8/getambassador/v3alpha1/mapping/</loc>
-         <lastmod>2024-03-04</lastmod>
+         <lastmod>2024-03-05</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>https://jsonnet-libs.github.io/emissary-libsonnet/3.8/getambassador/v3alpha1/module/</loc>
-         <lastmod>2024-03-04</lastmod>
+         <lastmod>2024-03-05</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>https://jsonnet-libs.github.io/emissary-libsonnet/3.8/getambassador/v3alpha1/rateLimitService/</loc>
-         <lastmod>2024-03-04</lastmod>
+         <lastmod>2024-03-05</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>https://jsonnet-libs.github.io/emissary-libsonnet/3.8/getambassador/v3alpha1/tcpMapping/</loc>
-         <lastmod>2024-03-04</lastmod>
+         <lastmod>2024-03-05</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>https://jsonnet-libs.github.io/emissary-libsonnet/3.8/getambassador/v3alpha1/tlsContext/</loc>
-         <lastmod>2024-03-04</lastmod>
+         <lastmod>2024-03-05</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>https://jsonnet-libs.github.io/emissary-libsonnet/3.8/getambassador/v3alpha1/tracingService/</loc>
-         <lastmod>2024-03-04</lastmod>
+         <lastmod>2024-03-05</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>https://jsonnet-libs.github.io/emissary-libsonnet/3.9/</loc>
-         <lastmod>2024-03-04</lastmod>
+         <lastmod>2024-03-05</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>https://jsonnet-libs.github.io/emissary-libsonnet/3.9/getambassador/</loc>
-         <lastmod>2024-03-04</lastmod>
+         <lastmod>2024-03-05</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>https://jsonnet-libs.github.io/emissary-libsonnet/3.9/getambassador/v1/</loc>
-         <lastmod>2024-03-04</lastmod>
+         <lastmod>2024-03-05</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>https://jsonnet-libs.github.io/emissary-libsonnet/3.9/getambassador/v1/authService/</loc>
-         <lastmod>2024-03-04</lastmod>
+         <lastmod>2024-03-05</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>https://jsonnet-libs.github.io/emissary-libsonnet/3.9/getambassador/v1/consulResolver/</loc>
-         <lastmod>2024-03-04</lastmod>
+         <lastmod>2024-03-05</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>https://jsonnet-libs.github.io/emissary-libsonnet/3.9/getambassador/v1/devPortal/</loc>
-         <lastmod>2024-03-04</lastmod>
+         <lastmod>2024-03-05</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>https://jsonnet-libs.github.io/emissary-libsonnet/3.9/getambassador/v1/kubernetesEndpointResolver/</loc>
-         <lastmod>2024-03-04</lastmod>
+         <lastmod>2024-03-05</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>https://jsonnet-libs.github.io/emissary-libsonnet/3.9/getambassador/v1/kubernetesServiceResolver/</loc>
-         <lastmod>2024-03-04</lastmod>
+         <lastmod>2024-03-05</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>https://jsonnet-libs.github.io/emissary-libsonnet/3.9/getambassador/v1/logService/</loc>
-         <lastmod>2024-03-04</lastmod>
+         <lastmod>2024-03-05</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>https://jsonnet-libs.github.io/emissary-libsonnet/3.9/getambassador/v1/mapping/</loc>
-         <lastmod>2024-03-04</lastmod>
+         <lastmod>2024-03-05</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>https://jsonnet-libs.github.io/emissary-libsonnet/3.9/getambassador/v1/module/</loc>
-         <lastmod>2024-03-04</lastmod>
+         <lastmod>2024-03-05</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>https://jsonnet-libs.github.io/emissary-libsonnet/3.9/getambassador/v1/rateLimitService/</loc>
-         <lastmod>2024-03-04</lastmod>
+         <lastmod>2024-03-05</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>https://jsonnet-libs.github.io/emissary-libsonnet/3.9/getambassador/v1/tcpMapping/</loc>
-         <lastmod>2024-03-04</lastmod>
+         <lastmod>2024-03-05</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>https://jsonnet-libs.github.io/emissary-libsonnet/3.9/getambassador/v1/tlsContext/</loc>
-         <lastmod>2024-03-04</lastmod>
+         <lastmod>2024-03-05</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>https://jsonnet-libs.github.io/emissary-libsonnet/3.9/getambassador/v1/tracingService/</loc>
-         <lastmod>2024-03-04</lastmod>
+         <lastmod>2024-03-05</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>https://jsonnet-libs.github.io/emissary-libsonnet/3.9/getambassador/v2/</loc>
-         <lastmod>2024-03-04</lastmod>
+         <lastmod>2024-03-05</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>https://jsonnet-libs.github.io/emissary-libsonnet/3.9/getambassador/v2/authService/</loc>
-         <lastmod>2024-03-04</lastmod>
+         <lastmod>2024-03-05</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>https://jsonnet-libs.github.io/emissary-libsonnet/3.9/getambassador/v2/consulResolver/</loc>
-         <lastmod>2024-03-04</lastmod>
+         <lastmod>2024-03-05</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>https://jsonnet-libs.github.io/emissary-libsonnet/3.9/getambassador/v2/devPortal/</loc>
-         <lastmod>2024-03-04</lastmod>
+         <lastmod>2024-03-05</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>https://jsonnet-libs.github.io/emissary-libsonnet/3.9/getambassador/v2/host/</loc>
-         <lastmod>2024-03-04</lastmod>
+         <lastmod>2024-03-05</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>https://jsonnet-libs.github.io/emissary-libsonnet/3.9/getambassador/v2/kubernetesEndpointResolver/</loc>
-         <lastmod>2024-03-04</lastmod>
+         <lastmod>2024-03-05</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>https://jsonnet-libs.github.io/emissary-libsonnet/3.9/getambassador/v2/kubernetesServiceResolver/</loc>
-         <lastmod>2024-03-04</lastmod>
+         <lastmod>2024-03-05</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>https://jsonnet-libs.github.io/emissary-libsonnet/3.9/getambassador/v2/logService/</loc>
-         <lastmod>2024-03-04</lastmod>
+         <lastmod>2024-03-05</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>https://jsonnet-libs.github.io/emissary-libsonnet/3.9/getambassador/v2/mapping/</loc>
-         <lastmod>2024-03-04</lastmod>
+         <lastmod>2024-03-05</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>https://jsonnet-libs.github.io/emissary-libsonnet/3.9/getambassador/v2/module/</loc>
-         <lastmod>2024-03-04</lastmod>
+         <lastmod>2024-03-05</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>https://jsonnet-libs.github.io/emissary-libsonnet/3.9/getambassador/v2/rateLimitService/</loc>
-         <lastmod>2024-03-04</lastmod>
+         <lastmod>2024-03-05</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>https://jsonnet-libs.github.io/emissary-libsonnet/3.9/getambassador/v2/tcpMapping/</loc>
-         <lastmod>2024-03-04</lastmod>
+         <lastmod>2024-03-05</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>https://jsonnet-libs.github.io/emissary-libsonnet/3.9/getambassador/v2/tlsContext/</loc>
-         <lastmod>2024-03-04</lastmod>
+         <lastmod>2024-03-05</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>https://jsonnet-libs.github.io/emissary-libsonnet/3.9/getambassador/v2/tracingService/</loc>
-         <lastmod>2024-03-04</lastmod>
+         <lastmod>2024-03-05</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>https://jsonnet-libs.github.io/emissary-libsonnet/3.9/getambassador/v3alpha1/</loc>
-         <lastmod>2024-03-04</lastmod>
+         <lastmod>2024-03-05</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>https://jsonnet-libs.github.io/emissary-libsonnet/3.9/getambassador/v3alpha1/authService/</loc>
-         <lastmod>2024-03-04</lastmod>
+         <lastmod>2024-03-05</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>https://jsonnet-libs.github.io/emissary-libsonnet/3.9/getambassador/v3alpha1/consulResolver/</loc>
-         <lastmod>2024-03-04</lastmod>
+         <lastmod>2024-03-05</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>https://jsonnet-libs.github.io/emissary-libsonnet/3.9/getambassador/v3alpha1/devPortal/</loc>
-         <lastmod>2024-03-04</lastmod>
+         <lastmod>2024-03-05</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>https://jsonnet-libs.github.io/emissary-libsonnet/3.9/getambassador/v3alpha1/host/</loc>
-         <lastmod>2024-03-04</lastmod>
+         <lastmod>2024-03-05</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>https://jsonnet-libs.github.io/emissary-libsonnet/3.9/getambassador/v3alpha1/kubernetesEndpointResolver/</loc>
-         <lastmod>2024-03-04</lastmod>
+         <lastmod>2024-03-05</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>https://jsonnet-libs.github.io/emissary-libsonnet/3.9/getambassador/v3alpha1/kubernetesServiceResolver/</loc>
-         <lastmod>2024-03-04</lastmod>
+         <lastmod>2024-03-05</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>https://jsonnet-libs.github.io/emissary-libsonnet/3.9/getambassador/v3alpha1/listener/</loc>
-         <lastmod>2024-03-04</lastmod>
+         <lastmod>2024-03-05</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>https://jsonnet-libs.github.io/emissary-libsonnet/3.9/getambassador/v3alpha1/logService/</loc>
-         <lastmod>2024-03-04</lastmod>
+         <lastmod>2024-03-05</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>https://jsonnet-libs.github.io/emissary-libsonnet/3.9/getambassador/v3alpha1/mapping/</loc>
-         <lastmod>2024-03-04</lastmod>
+         <lastmod>2024-03-05</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>https://jsonnet-libs.github.io/emissary-libsonnet/3.9/getambassador/v3alpha1/module/</loc>
-         <lastmod>2024-03-04</lastmod>
+         <lastmod>2024-03-05</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>https://jsonnet-libs.github.io/emissary-libsonnet/3.9/getambassador/v3alpha1/rateLimitService/</loc>
-         <lastmod>2024-03-04</lastmod>
+         <lastmod>2024-03-05</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>https://jsonnet-libs.github.io/emissary-libsonnet/3.9/getambassador/v3alpha1/tcpMapping/</loc>
-         <lastmod>2024-03-04</lastmod>
+         <lastmod>2024-03-05</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>https://jsonnet-libs.github.io/emissary-libsonnet/3.9/getambassador/v3alpha1/tlsContext/</loc>
-         <lastmod>2024-03-04</lastmod>
+         <lastmod>2024-03-05</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>https://jsonnet-libs.github.io/emissary-libsonnet/3.9/getambassador/v3alpha1/tracingService/</loc>
-         <lastmod>2024-03-04</lastmod>
+         <lastmod>2024-03-05</lastmod>
          <changefreq>daily</changefreq>
     </url>
 </urlset>
